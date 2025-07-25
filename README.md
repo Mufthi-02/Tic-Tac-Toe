@@ -2,7 +2,7 @@
 <p>Tic Tac Toe is a classic two-player game where players take turns marking spaces in a 3x3 grid with either X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row wins the game.
 This web-based version of Tic Tac Toe allows players to play against a bot or against another local player.</p>
 <h1>Preview</h1>
-<h2><b>Demo:</b><a href="https://mohamedtawfeeq25.github.io/Tic-Tac-Toe/">https://mohamedtawfeeq25.github.io/Tic-Tac-Toe/</a></h2>
+<h2><b>Demo:</b><a href="https://Mufthi-02.github.io/Tic-Tac-Toe/">https://Mufthi-02.github.io/Tic-Tac-Toe/</a></h2>
 <h2>Home Page</h2>
 <p><img src="./ScreenShots/Home_Screen(Desktop).jpeg"/></p>
 <h2>Player vs Bot</h2>
