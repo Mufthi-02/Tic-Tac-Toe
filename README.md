@@ -26,7 +26,7 @@ This web-based version of Tic Tac Toe allows players to play against a bot or ag
  <p>To run this project locally, follow these steps:</p>
 <ol>
   <li>Clone the repository:</li>
-    <p>git clone https://github.com/MohamedTawfeeq25/Tic-Tac-Toe.git</p>
+    <p>git clone https://github.com/Mufthi-02/Tic-Tac-Toe</p>
     <li>Install the dependencies:</li>
     <p>cd Tic-Tac-Toe</p>
   <p>npm install</p>
